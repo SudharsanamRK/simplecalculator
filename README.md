@@ -26,11 +26,9 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ```
-/*
 Program to print the text “calculator operation”.
-Developed by: KARTHICK K 
-Registeration Number :212222040070
-*/
+Developed by: Sudharsanam RK
+Registeration Number :212222040163
 ```
 # Activity_main.xml
 ```xml
@@ -184,9 +182,6 @@ public class MainActivity extends AppCompatActivity {
 ![multiplication](https://github.com/SudharsanamRK/simplecalculator/assets/115523484/5e4743e0-01d5-4138-b416-758ad76beca5)
 # Division
 ![division](https://github.com/SudharsanamRK/simplecalculator/assets/115523484/61b167ec-4362-4d7b-8598-3e06f085247c)
-
-
-
 
 
 ## RESULT
