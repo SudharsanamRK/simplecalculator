@@ -1,14 +1,14 @@
 # Ex.No:9 Develop a simple calculator using android studio.
 
-## AIM:
+## AIM
 
 To develop a program to develop a simple calculator in Android Studio.
 
-## EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED
 
 Android Studio(Latest Version)
 
-## ALGORITHM:
+## ALGORITHM
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
@@ -24,13 +24,13 @@ Step 6: Display the calculator operation in MainActivity file.
 
 Step 7: Save and run the application.
 
-## PROGRAM:
+## PROGRAM
 ```
 Program to print the text “calculator operation”.
 Developed by: Sudharsanam RK
 Registeration Number :212222040163
 ```
-# Activity_main.xml
+# In Activity_main.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -94,7 +94,7 @@ Registeration Number :212222040163
 
 </LinearLayout>
 ```
-# Mainactivity.java
+# In Mainactivity.java
 ```java
 package com.example.calculator;
 
