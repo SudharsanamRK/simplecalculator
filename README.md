@@ -53,14 +53,14 @@ Registeration Number :212222040163
         android:backgroundTint="#F44336"
         android:text="Add"
         android:textColor="#FFFFFF" />
-```
-```
     <Button
         android:id="@+id/btnSub"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="#9C27B0"
         android:text="Subtract" />
+```
+```
     <Button
         android:id="@+id/btnMul"
         android:layout_width="match_parent"
