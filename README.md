@@ -9,21 +9,15 @@ To develop a program to develop a simple calculator in Android Studio.
 Android Studio(Latest Version)
 
 ## ALGORITHM
-
+```
 Step 1: Open Android Stdio and then click on File -> New -> New project.
-
 Step 2: Then type the Application name as calculator and click Next. 
-
 Step 3: Then select the Minimum SDK as shown below and click Next.
-
 Step 4: Then select the Empty Activity and click Next. Finally click Finish.
-
 Step 5: Design layout using UI components in activity_main.xml.
-
 Step 6: Display the calculator operation in MainActivity file.
-
 Step 7: Save and run the application.
-
+```
 ## PROGRAM
 ```
 Program to print the text “calculator operation”.
@@ -40,21 +34,18 @@ Registeration Number :212222040163
     android:orientation="vertical"
     android:padding="16dp"
     tools:context=".MainActivity">
-
     <EditText
         android:id="@+id/etNum1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Enter Number 1"
         android:inputType="numberDecimal" />
-
     <EditText
         android:id="@+id/etNum2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Enter Number 2"
         android:inputType="numberDecimal" />
-
     <Button
         android:id="@+id/btnAdd"
         android:layout_width="match_parent"
@@ -62,28 +53,26 @@ Registeration Number :212222040163
         android:backgroundTint="#F44336"
         android:text="Add"
         android:textColor="#FFFFFF" />
-
+```
+```
     <Button
         android:id="@+id/btnSub"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="#9C27B0"
         android:text="Subtract" />
-
     <Button
         android:id="@+id/btnMul"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="#FFC107"
         android:text="Multiply" />
-
     <Button
         android:id="@+id/btnDiv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="#4CAF50"
         android:text="Divide" />
-
     <TextView
         android:id="@+id/tvResult"
         android:layout_width="match_parent"
@@ -91,7 +80,6 @@ Registeration Number :212222040163
         android:layout_marginTop="16dp"
         android:text="Result: "
         android:textSize="18sp" />
-
 </LinearLayout>
 ```
 # In Mainactivity.java
